@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+}
+
+.loading {
+    text-align: center;
+}
+
+.loader-image {
+    width: 400px;
+    height: 350px;
+    display: inline-block;
+    border: none;
+}
